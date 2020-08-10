@@ -1,4 +1,7 @@
 git工具的使用：
-1. 分支 master，branch概念【master是主分支的意思？是稳定版本，可以继续升级，branch是次分支，可以合并到master上边】
+1. 分支 master，branch概念【master是主分支的意思？是稳定版本，可以继续升级，branch是次分支，可以合并到master上边】*2
 2. 合并 merge
-3. 提交 commit
+3. 提交 commit*1提交变更到本地，不上传到服务器
+4. 拉取 pull 从服务器拉到本地--下载*3
+5. 推送 push 本地上传到服务器*4
+6. 拿来 fetch 从服务器取回最新版本，并不合并到本地--不需要
